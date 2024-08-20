@@ -15,6 +15,7 @@ This project is a 3D simulation of an amusement park built using OpenGL. The sim
 ## Prerequisites
 To run this project, you need to have the following installed:
 
+- **Programming language used:** C++.
 - **OpenGL:** The core library used for rendering 3D graphics.
 - **GLUT (OpenGL Utility Toolkit):** A toolkit for handling window creation, input, and other tasks.
 - **C++ Compiler:** The project is written in C++, so you will need a compatible compiler (e.g., GCC or Visual Studio).
